@@ -1,5 +1,5 @@
 # acci2csdict
-AutoCAD color index to csharp dictionary converter
+AutoCAD color index to csharp 6.0 dictionary converter
 
 ## usage
 
