@@ -10,7 +10,7 @@ python acci2csdict.py
 python2.7 and well formatted input file acci.in
 
 ```
-$ head acci.in && echo ... && tail.exe acci.in
+$ head acci.in && echo ... && tail acci.in
 0       0       0       0       0       0       0
 FF      0       0       1       255     0       0
 FF      FF      0       2       255     255     0
